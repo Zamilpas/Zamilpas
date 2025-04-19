@@ -21,8 +21,4 @@ Welcome to my GitHub profile! I'm a **Mechatronics Engineering student** with a 
 ⚡ Fun Fact
 I combine my love for robotics with my passion for **running** 🏃‍♂️ — always pushing limits both in code and on the track.
 
-Thanks for visiting! 🌟
-
-Zamilpas/Zamilpas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for visiting! 
